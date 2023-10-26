@@ -1,10 +1,9 @@
 {
-  "name": "Example Plugin",
-  "author": "John Doe",
+  "name": "Auto-eGPU Graphics",
+  "author": "Thomas Bebbington",
   "flags": ["debug", "_root"],
   "publish": {
     "tags": ["template", "root"],
-    "description": "Decky example plugin.",
-    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+    "description": "Auto-configure games based on eGPU/battery status",
   }
 }

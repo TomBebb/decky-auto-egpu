@@ -38,7 +38,7 @@ const Content: VFC<{ serverAPI: ServerAPI }> = ({serverAPI}) => {
   // };
 
   return (
-    <PanelSection title="Panel Section">
+    <PanelSection title="Auto-Config games">
       <PanelSectionRow>
         <ButtonItem
           layout="below"
